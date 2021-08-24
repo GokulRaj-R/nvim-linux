@@ -1,0 +1,17 @@
+{
+  "suggest.noselect": false,
+  "pairs.disableLanguages": ["cpp"],
+  "diagnostic.checkCurrentLine": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "json",
+    "html",
+    "python",
+    "markdown",
+    "Markdown",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
+}
